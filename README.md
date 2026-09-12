@@ -2,7 +2,7 @@
   <img src="images/banner.svg" width="800" alt="Mohamed Yasser - .NET Developer" />
 </p>
 
-<img src=""C:\Users\h\Downloads\البروفيشينال.jpg"" align="right" width="250" />
+<img src="C:\Users\h\Downloads\البروفيشينال.jpg" align="right" width="250" />
 
 # Hi, I'm Mohamed Yasser 👋
 
