@@ -59,28 +59,18 @@ I enjoy solving problems, learning new technologies, and turning ideas into usef
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180" />
-
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" height="180" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mohammed-yasser-a223b22a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
 
+  <a href="https://www.youtube.com/@MohamedYassernagah">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">
