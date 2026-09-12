@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.svg" width="800" alt="Mohamed Yasser - .NET Developer" />
+  <img src="banner.png" width="800" alt="Mohamed Yasser - .NET Developer" />
 </p>
 
 <img src="images/me.jpg" align="right" width="250" />
