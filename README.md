@@ -2,9 +2,8 @@
   <img src="banner.png" width="800" alt="Mohamed Yasser - .NET Developer" />
 </p>
 
-<img src="images/me.jpg" align="right" width="250" />
 
-# Hi, I'm Mohamed Yasser 👋
+# Hi, I'm Mohamed Yasser 
 
 I'm a **.NET Developer** passionate about building clean, reliable, and practical software solutions.
 
